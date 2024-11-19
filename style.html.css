@@ -1,0 +1,26 @@
+/* styles.css */
+
+.intro {
+  background-color: #f0f0f0; /* Light background color */
+  padding: 30px; /* Add padding around the text */
+  border-radius: 10px; /* Rounded corners */
+  text-align: justify; /* Justify the text */
+  font-family: Century Gothic, sans-serif; /* Set Century Gothic font */
+  line-height: 1.6; /* Adjust line spacing */
+  margin-bottom: 30px; /* Add space between sections */
+}
+
+.intro h1 {
+  font-size: 2.5em; /* Larger heading size */
+  margin-bottom: 20px; /* Add space below heading */
+}
+
+.intro ul {
+  list-style-type: disc; /* Add bullet points to the list */
+  margin-top: 20px; /* Add space above list */
+  padding-left: 30px; /* Indent the list items */
+}
+
+.intro p {
+  margin-bottom: 15px; /* Add space between paragraphs */
+}
