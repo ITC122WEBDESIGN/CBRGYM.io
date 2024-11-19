@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Gym</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Gym</h1>
+        <nav>
+            <a href="index.php">Home</a>
+            <a href="about.php">About Us</a>
+            <a href="services.php">Services</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <img src="assets/images/gym-photo1.jpg" alt="Gym photo" class="hero-image">
+            <h2>Transform Yourself with Us</h2>
+            <p>Your journey to fitness starts here.</p>
+        </section>
+
+        <section class="intro">
+            <h3>Why Choose Us?</h3>
+            <p>We offer personalized training plans, state-of-the-art equipment, and a supportive community.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 My Gym. All rights reserved.</p>
+    </footer>
+</body>
+</html>
